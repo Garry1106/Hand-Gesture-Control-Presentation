@@ -5,6 +5,13 @@
 
 Hand Gesture Control Presentation is a Python-based project that enables users to control presentation slides using hand gestures. This project utilizes computer vision techniques to recognize hand gestures and maps them to specific presentation controls, allowing for a hands-free presentation experience. The project leverages various Python libraries such as OpenCV, Mediapipe, and PyAutoGUI to achieve this functionality.
 
+## Screenshots
+
+![1](https://github.com/Garry1106/Hand-Gesture-Control-Presentation/assets/101012709/f22fe43a-fc6f-48e0-9a1a-b093a2d05a18)
+![2](https://github.com/Garry1106/Hand-Gesture-Control-Presentation/assets/101012709/edaeaba9-df2c-47a3-9848-53559f772ace)
+![3](https://github.com/Garry1106/Hand-Gesture-Control-Presentation/assets/101012709/547314d2-9a66-4d37-bfa3-0125e88d509d)
+![4](https://github.com/Garry1106/Hand-Gesture-Control-Presentation/assets/101012709/0071cd20-e5cc-4a75-ae44-b8b4c1a89a81)
+
 ## Features
 
 - **Real-time Hand Gesture Recognition:** Detect and recognize hand gestures in real-time using the camera.
