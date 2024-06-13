@@ -39,7 +39,7 @@ pip install opencv-python
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/hand-gesture-control-presentation.git
+git clone https://github.com/Garry1106/Hand-Gesture-Control-Presentation.git
 ```
 
 ## Usage
